@@ -4,7 +4,7 @@ public class ChotaCalculator {
 	
 	
 	public static int add(int x , int y )
-	{    System.out.println("teri");
+	{    System.out.println("terimaakiddddddd");
 		return x+y;
 	}
 	public static int subtract(int x , int y )
